@@ -1,0 +1,6 @@
+
+    @mixin cajaFlexs($dis,$justy,$alig){
+        display: $dis; 
+        justify-content:$justy;
+        align-items:$alig;
+    }

@@ -1,0 +1,6 @@
+# carpetas 
+node_modules
+
+# archivos 
+package-lock.json
+package.json
